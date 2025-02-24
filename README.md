@@ -1,1 +1,1 @@
-# Store-sales
+# Sales store
